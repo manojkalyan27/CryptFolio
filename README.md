@@ -3,6 +3,7 @@
 ✅ Search functionality to filter coins by name or symbol
 ✅ Sorting options:
 
+
 Sort by Market Cap (Highest to Lowest)
 Sort by Percentage Change (Highest to Lowest)
 ✅ Dynamic color coding:
